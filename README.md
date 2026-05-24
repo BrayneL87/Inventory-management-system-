@@ -20,7 +20,11 @@ Lo mejor de este sistema es su simplicidad: **no requiere la configuración de b
 
 ## 🖼️ Vista previa
 
-![Vista previa](./img/animacion-css.jpg)
+![Vista previa](./2026-05-24.png)
+
+---
+
+![Vista previa](./2026-05-24_1.png)
 
 ---
 
