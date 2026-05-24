@@ -1,3 +1,5 @@
 	001		Teclado		55000		5
 	002		Poratil lenovo		2270000		1
 	001		Portatil Lenovo		2.750.000		1
+	1.		Lenovo		2789999		1
+	2.		Mac		3857000		1

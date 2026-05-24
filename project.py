@@ -88,3 +88,5 @@ shw.place(x=70, y=320)
 display = Text(window, width=58, height=20, bg='light grey')
 display.place(x=230, y=70)
 window.mainloop()
+
+
