@@ -20,11 +20,11 @@ Lo mejor de este sistema es su simplicidad: **no requiere la configuración de b
 
 ## 🖼️ Vista previa
 
-![Vista previa](./2026-05-24.png)
+![Vista previa](./img/2026-05-24.jpg)
 
 ---
 
-![Vista previa](./2026-05-24_1.png)
+![Vista previa](./img/2026-05-24_1.jpg)
 
 ---
 
